@@ -9,7 +9,12 @@
 The Average temperature in June was just under 75 degrees Farenheit where as the average temperature in December way just over 71 degrees Farenheit.  The Min/Max temperature in June was was 64/85 degrees while the Min/Max temperature in December was 56/83 degrees.  More detail is shown in the images below.
 
 ## December Weather Data
+### Temperature Data
 ![Dec_temp_data](https://github.com/RudyR32/surfs_up/blob/master/Dec_temp_data.png)
-
+### Precipitation Data
+![Dec_rain_data](https://github.com/RudyR32/surfs_up/blob/master/Dec_rain_data.png)
 ## June Weather Data
+### Temperature Data
 ![June_temp_data](https://github.com/RudyR32/surfs_up/blob/master/June_temps_data.png)
+### Precipitation Data
+![June_rain_data](https://github.com/RudyR32/surfs_up/blob/master/June_rain_data.png)
