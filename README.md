@@ -1,6 +1,6 @@
 # surfs_up
-Weather Analysis of a potential Surf and Icecream Shop Destination in Hawaii.<br/
-The code I used to conduct my anlayis can be found [Here](https://github.com/RudyR32/surfs_up/blob/master/climate_analysis.ipynb)
+Weather Analysis of a potential Surf and Icecream Shop Destination in Hawaii.<br/>
+The code I used to conduct my anlayis can be found [Here.](https://github.com/RudyR32/surfs_up/blob/master/climate_analysis.ipynb)
 
 ## Challenge Instructions
 1.  Identify key statistical data in June across all of the stations and years using the describe() function.(below)<br/>
